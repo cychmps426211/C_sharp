@@ -1,0 +1,5 @@
+C:\Users\stevenchiang\Desktop\C#\ModuleEight\ModuleEight\bin\Debug\ModuleEight.exe.config
+C:\Users\stevenchiang\Desktop\C#\ModuleEight\ModuleEight\bin\Debug\ModuleEight.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleEight\ModuleEight\bin\Debug\ModuleEight.pdb
+C:\Users\stevenchiang\Desktop\C#\ModuleEight\ModuleEight\obj\Debug\ModuleEight.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleEight\ModuleEight\obj\Debug\ModuleEight.pdb

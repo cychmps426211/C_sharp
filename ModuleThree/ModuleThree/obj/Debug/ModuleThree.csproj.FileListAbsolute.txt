@@ -1,0 +1,6 @@
+C:\Users\stevenchiang\Desktop\C#\ModuleThree\ModuleThree\bin\Debug\ModuleThree.exe.config
+C:\Users\stevenchiang\Desktop\C#\ModuleThree\ModuleThree\bin\Debug\ModuleThree.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleThree\ModuleThree\bin\Debug\ModuleThree.pdb
+C:\Users\stevenchiang\Desktop\C#\ModuleThree\ModuleThree\obj\Debug\ModuleThree.csprojResolveAssemblyReference.cache
+C:\Users\stevenchiang\Desktop\C#\ModuleThree\ModuleThree\obj\Debug\ModuleThree.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleThree\ModuleThree\obj\Debug\ModuleThree.pdb

@@ -1,0 +1,6 @@
+C:\Users\stevenchiang\Desktop\C#\ModuleFour\ModuleFour\bin\Debug\ModuleFour.exe.config
+C:\Users\stevenchiang\Desktop\C#\ModuleFour\ModuleFour\obj\Debug\ModuleFour.csprojResolveAssemblyReference.cache
+C:\Users\stevenchiang\Desktop\C#\ModuleFour\ModuleFour\bin\Debug\ModuleFour.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleFour\ModuleFour\bin\Debug\ModuleFour.pdb
+C:\Users\stevenchiang\Desktop\C#\ModuleFour\ModuleFour\obj\Debug\ModuleFour.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleFour\ModuleFour\obj\Debug\ModuleFour.pdb

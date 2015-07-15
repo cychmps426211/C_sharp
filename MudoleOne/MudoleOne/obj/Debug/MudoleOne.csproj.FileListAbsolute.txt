@@ -1,0 +1,6 @@
+C:\Users\stevenchiang\Desktop\C#\MudoleOne\MudoleOne\bin\Debug\MudoleOne.exe.config
+C:\Users\stevenchiang\Desktop\C#\MudoleOne\MudoleOne\bin\Debug\MudoleOne.exe
+C:\Users\stevenchiang\Desktop\C#\MudoleOne\MudoleOne\bin\Debug\MudoleOne.pdb
+C:\Users\stevenchiang\Desktop\C#\MudoleOne\MudoleOne\obj\Debug\MudoleOne.csprojResolveAssemblyReference.cache
+C:\Users\stevenchiang\Desktop\C#\MudoleOne\MudoleOne\obj\Debug\MudoleOne.exe
+C:\Users\stevenchiang\Desktop\C#\MudoleOne\MudoleOne\obj\Debug\MudoleOne.pdb

@@ -1,0 +1,6 @@
+C:\Users\stevenchiang\Desktop\C#\ModuleSix\ModuleSix\bin\Debug\ModuleSix.exe.config
+C:\Users\stevenchiang\Desktop\C#\ModuleSix\ModuleSix\bin\Debug\ModuleSix.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleSix\ModuleSix\bin\Debug\ModuleSix.pdb
+C:\Users\stevenchiang\Desktop\C#\ModuleSix\ModuleSix\obj\Debug\ModuleSix.csprojResolveAssemblyReference.cache
+C:\Users\stevenchiang\Desktop\C#\ModuleSix\ModuleSix\obj\Debug\ModuleSix.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleSix\ModuleSix\obj\Debug\ModuleSix.pdb

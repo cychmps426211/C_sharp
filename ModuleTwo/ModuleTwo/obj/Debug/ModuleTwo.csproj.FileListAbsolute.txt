@@ -1,0 +1,6 @@
+C:\Users\stevenchiang\Desktop\C#\ModuleTwo\ModuleTwo\bin\Debug\ModuleTwo.exe.config
+C:\Users\stevenchiang\Desktop\C#\ModuleTwo\ModuleTwo\bin\Debug\ModuleTwo.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleTwo\ModuleTwo\bin\Debug\ModuleTwo.pdb
+C:\Users\stevenchiang\Desktop\C#\ModuleTwo\ModuleTwo\obj\Debug\ModuleTwo.csprojResolveAssemblyReference.cache
+C:\Users\stevenchiang\Desktop\C#\ModuleTwo\ModuleTwo\obj\Debug\ModuleTwo.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleTwo\ModuleTwo\obj\Debug\ModuleTwo.pdb

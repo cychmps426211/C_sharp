@@ -1,0 +1,6 @@
+C:\Users\stevenchiang\Desktop\C#\ModuleSeven\ModuleSeven\bin\Debug\ModuleSeven.exe.config
+C:\Users\stevenchiang\Desktop\C#\ModuleSeven\ModuleSeven\bin\Debug\ModuleSeven.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleSeven\ModuleSeven\bin\Debug\ModuleSeven.pdb
+C:\Users\stevenchiang\Desktop\C#\ModuleSeven\ModuleSeven\obj\Debug\ModuleSeven.csprojResolveAssemblyReference.cache
+C:\Users\stevenchiang\Desktop\C#\ModuleSeven\ModuleSeven\obj\Debug\ModuleSeven.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleSeven\ModuleSeven\obj\Debug\ModuleSeven.pdb

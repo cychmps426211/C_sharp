@@ -1,0 +1,6 @@
+C:\Users\stevenchiang\Desktop\C#\ModuleFive\ModuleFive\bin\Debug\ModuleFive.exe.config
+C:\Users\stevenchiang\Desktop\C#\ModuleFive\ModuleFive\bin\Debug\ModuleFive.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleFive\ModuleFive\bin\Debug\ModuleFive.pdb
+C:\Users\stevenchiang\Desktop\C#\ModuleFive\ModuleFive\obj\Debug\ModuleFive.csprojResolveAssemblyReference.cache
+C:\Users\stevenchiang\Desktop\C#\ModuleFive\ModuleFive\obj\Debug\ModuleFive.exe
+C:\Users\stevenchiang\Desktop\C#\ModuleFive\ModuleFive\obj\Debug\ModuleFive.pdb
